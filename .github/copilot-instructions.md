@@ -1,9 +1,11 @@
 <!-- .github/copilot-instructions.md -->
+
 # Guidance for AI coding agents working on this repository
 
 This repository is a small personal Jekyll site (GitHub Pages compatible). The goal of these instructions is to give an AI coding agent the essential context to be immediately productive.
 
 Key facts
+
 - Project type: Jekyll static site using the `minima` theme. See `Gemfile` for plugin and theme versions (uses `github-pages` group).
 - Primary content: Markdown posts live in `_posts/`. Site configuration lives in `_config.yml`. Built site output is generated into `_site/`.
 
